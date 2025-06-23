@@ -13,6 +13,18 @@ Hi, I'm **Tejas Watekar** – a passionate and curious learner with an interest 
 - Exploring API integration, database management, and responsive design.
 
 ---
+# 🌐 Full Stack Web Project
+
+Welcome to this Full Stack Web Development project! This repository showcases a dynamic, database-driven web application built using:
+
+- 🟧 **HTML**
+- 🎨 **CSS**
+- 🐘 **PostgreSQL**
+- 🐍 **Python**
+- 🐘 **PHP**
+- 🟨 **JavaScript**
+
+---
 
 ## 📁 Project Overview
 
