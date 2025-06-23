@@ -1,16 +1,60 @@
-## Hi there 👋
+## ✨ About Me
 
-<!--
-**Tej264/Tej264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Tejas Watekar** – a passionate and curious learner with an interest in **web development** and **full-stack projects**.
 
-Here are some ideas to get you started:
+### 🚀 Skills & Technologies:
+- 💻 **Frontend**: HTML, CSS, JavaScript
+- 🐍 **Backend**: Python, PHP
+- 🛢️ **Database**: PostgreSQL
+- 🛠️ Tools: Git, VS Code, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently:
+- Learning how to build and deploy complete web applications.
+- Exploring API integration, database management, and responsive design.
+
+---
+
+## 📁 Project Overview
+
+This project demonstrates a full-stack architecture combining **frontend**, **backend**, and **database** layers:
+
+| Layer       | Technologies Used      | Description |
+|-------------|------------------------|-------------|
+| Frontend    | HTML, CSS, JavaScript  | Creates user interface & handles client-side behavior |
+| Backend     | PHP, Python            | Handles business logic, API, form processing |
+| Database    | PostgreSQL             | Stores and manages application data securely |
+
+---
+
+## 📌 Features
+
+✅ Responsive Web Design  
+✅ User Authentication (Login/Register)  
+✅ Dynamic Content Rendering  
+✅ Database CRUD Operations  
+✅ Secure Backend Communication  
+✅ REST API Integration  
+✅ JavaScript Interactivity (e.g., form validation, dynamic DOM)
+
+---
+
+## 🛠️ Technologies & Tools
+
+| Technology   | Role                  |
+|--------------|------------------------|
+| **HTML**     | Markup structure       |
+| **CSS**      | Styling and layout     |
+| **JavaScript** | Frontend logic & interactivity |
+| **PHP**      | Server-side scripting  |
+| **Python**   | Backend processing / API logic |
+| **PostgreSQL** | Relational database    |
+
+---
+
+
+## 📬 Contact
+
+- GitHub: [Tej264](https://github.com/Tej264)
+- Email: tejaswatekar45@gmail.com
+
+---
