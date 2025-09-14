@@ -1,12 +1,19 @@
 ## ✨ About Me
 
-Hi, I'm **Tejas Watekar** – a passionate and curious learner with an interest in **web development** and **full-stack projects**.
+Hi, I'm **Tejas Watekar** – a passionate and curious learner with an interest in **Data Analysis** ,**web development** and **full-stack projects**.
 
 ### 🚀 Skills & Technologies:
 - 💻 **Frontend**: HTML, CSS, JavaScript
 - 🐍 **Backend**: Python, PHP
 - 🛢️ **Database**: PostgreSQL
 - 🛠️ Tools: Git, VS Code, GitHub
+
+### 📊 Data Analysis Technologies & Tools:  
+- **Excel (Advanced)**: Pivot Tables, Index & Match, VLOOKUP, XLOOKUP, Conditional Formatting, Data Validation
+- **Python Libraries**: NumPy, Pandas, Matplotlib, Seaborn
+- **Visualization & BI Tools**: Power BI, Tableau, Google Data Studio
+- **Data Handling & Querying**: SQL, PostgreSQL, MySQL
+- **Others / ETL Tools**: Microsoft Power Query, OpenRefine
 
 ### 📚 Currently:
 - Learning how to build and deploy complete web applications.
